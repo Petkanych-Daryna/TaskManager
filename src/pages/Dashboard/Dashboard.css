@@ -1,0 +1,13 @@
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.dashboard-card {
+  padding: 15px;
+  background-color: #e3f2fd;
+  border-radius: 6px;
+  text-align: center;
+  font-weight: bold;
+}

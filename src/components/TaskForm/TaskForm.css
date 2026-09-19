@@ -1,0 +1,30 @@
+.task-form {
+  border: 1px solid #007bff;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  background-color: #f8f9fa;
+}
+
+.task-form-title {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.task-form-field {
+  margin-bottom: 12px;
+}
+
+.task-form-input,
+.task-form-select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.task-form-actions {
+  display: flex;
+  gap: 8px;
+}

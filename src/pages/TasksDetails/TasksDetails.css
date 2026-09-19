@@ -1,0 +1,29 @@
+.details-container {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 15px;
+}
+
+.details-back-link {
+  display: inline-block;
+  margin-bottom: 15px;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.details-back-link:hover {
+  text-decoration: underline;
+}
+
+.details-title {
+  margin-top: 0;
+  color: #333;
+}
+
+.details-info {
+  margin-bottom: 10px;
+  font-size: 16px;
+}

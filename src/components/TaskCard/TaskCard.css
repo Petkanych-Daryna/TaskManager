@@ -1,0 +1,23 @@
+.task-card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  background-color: #ffffff;
+}
+
+.task-card-status-pending {
+  color: orange;
+  font-weight: bold;
+}
+
+.task-card-status-completed {
+  color: green;
+  font-weight: bold;
+}
+
+.task-card-actions {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
